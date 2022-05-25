@@ -1,2 +1,2 @@
-Display the name of the current working directory of all hidden files
+#!/bin/bash
 ls -l /etc /bin
